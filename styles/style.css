@@ -1,0 +1,38 @@
+html {
+    font-family: 'Open Sans', sans-serif; /* Remplacez 'Open Sans' par le nom de la police que vous avez choisie */
+    font-size: 16px; /* Taille de police par défaut pour toute la page */
+    
+}
+/* Styles pour les différents éléments de la page web */
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+html {
+    background-color: #7f9ab1;
+  }
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #f3efe5;
+    padding: 0 20px 20px 20px;
+    border: 5px solid rgb(97, 97, 97);
+  }
+  
+img {
+    display: block; /* Cela permettra à la marge auto de fonctionner */
+    margin: 0 auto; /* Cela centre l'image horizontalement */
+}
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #00539F;
+    text-shadow: 3px 3px 1px black;
+  }
